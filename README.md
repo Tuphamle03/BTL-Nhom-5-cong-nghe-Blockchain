@@ -64,4 +64,4 @@ Trong quá trình triển khai dự án, nhóm thống nhất lựa chọn và �
 
 -Heroku, Render, hoặc máy chủ nội bộ (local server) để chạy thử nghiệm hệ thống.
 
-👨‍💻Tác giả Phạm Lê Tú
+👨‍💻Tác giả: Phạm Lê Tú
